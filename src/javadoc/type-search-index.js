@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"by.rabkov.anderson.entity","l":"Array"},{"p":"by.rabkov.anderson.entity","l":"MyArrayList"},{"p":"by.rabkov.anderson.entity","l":"QuickSort"}];updateSearchResults();
